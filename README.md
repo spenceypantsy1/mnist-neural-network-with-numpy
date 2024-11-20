@@ -16,7 +16,7 @@ In this project, I:
 This project was inspired by the tutorial video from [Samson Zhang](https://www.youtube.com/@SamsonZhangTheSalmon), who explains the neural network structure and operations from the ground up using only numpy.
 
 ## References
-Deep Learning Basics (Lecture Notes) by Romain Tavenard
+Deep Learning Basics (Lecture Notes) by Romain Tavenard  
 [Samson Zhang's Video Tutorial](https://youtu.be/w8yWXqWQYmU?si=KFBjRs50fVVLMsi2)
 
 ## Dependencies
